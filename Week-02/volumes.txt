@@ -1,0 +1,10 @@
+Current date:  2023-09-23
+Width = 20.0
+Aspect ratio of the tire is = 15.0
+Diameter of the wheel is = 35.0
+Volume of the tire is = 0.20
+Current date:  2023-09-23
+Width = 205.0
+Aspect ratio of the tire is = 60.0
+Diameter of the wheel is = 15.0
+Volume of the tire is = 39.92
